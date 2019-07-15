@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="компрессоры, винтовые">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - винтовые компрессоры">
+<meta http-equiv="content-language" content="ru">
+<title>Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+    	$("#compressor").css("color","white");
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1025" height="99" alt="Logo" /></div>
+  
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+  
+  <h1>ВИНТОВЫЕ КОМПРЕССОРЫ</h1>
+  <p><img src="../img/U_Series.jpg" alt="U" width="160" height="79" class="img" /></p>
+  <p>Конструкция винтового компрессора известна с 30-ых годов XX века. За столь долгое время существования на рынке, винтовые компрессоры доказали свою надёжность в работе и высокую энергоэффективность.</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <img src="../img/TC.jpg" alt="TC" width="160" height="120" class="img" /><p>&nbsp;</p>
+  <p>Основа винтового компрессора серии U составляет винтовая пара производства: </p>
+	  <p><strong>ROTORCOMP</strong> и <strong>Termomeccanica Compressori</strong>.</p>
+	  <p>&nbsp;</p>
+	  <p>Винтовой компрессор может быть укомплектован:<br />
+	    <strong>Ресивером</strong> – обеспечивает ровную подачу сжатого воздуха при незначительных колебаниях потребления воздуха в пневмосети.<br />
+	    <strong>Частотным регулятором</strong> – обеспечивает производительность компрессора в соответствии с потреблением сжатого воздуха, что экономит электроэнергию и снижает число пусков компрессора.<br />
+      <strong>Плавным запуском</strong> – позволяет  предотвращать последствия, связанные с повышенными значениями пусковых токов.</p>
+	  <p><strong><img src="../img/U_Double.jpg" alt="U_Double" width="160" height="149" class="img" /></strong></p>
+	  <p>&nbsp;</p>
+	  <p><strong>Компрессор с двумя электроприводами серии – U</strong></p>
+	  <p>В один корпус (шкаф) компрессора вмонтированы две компрессорные установки, что позволяет существенно увеличить производительность компрессора.</p>
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+	  <p><strong><img src="../img/UMD.jpg" alt="UMD" width="160" height="117" class="img" />Дизельный компрессор серии UMD</strong></p>
+	  <p>Винтовой компрессор установленный на шасси и укомплектованный дизельным двигателем. В конструкции применяется двигатель марки Perkins, произведства Великобритании.</p>
+	  <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+  <p><strong>Наши специалисты могут проконсультировать вас:</strong> <br /> инженер коммерческого отдела - Иван Николаевич Павлов, <br /> тел. +7-964-306-18-99<br />
+      <a href="mailto:pavlov@gazmarket.su" class="link_mail"><strong>pavlov@gazmarket.su</strong></a></p>
+      <p>Для подбора винтового компрессора достаточно <a href="/files/screw.zip" class="link_mail"><strong>скачать опросный лист</strong></a>, заполнить его и отправить по почте или факсу.</p>
+      
+<div style="text-align:center"><p>Вас также может заинтересовать: <a href="/com/heavy.shtml"><strong>«Компрессоры высокого давления»</strong></a>, <a href="/com/preparation.shtml"><strong>«Осушители и подготовка воздуха»</strong></a>.</p><strong><a href="#Logo">В начало страницы</a></strong></div>
+</div>
+
+<!--#include virtual="/Address.xml" -->
+
+</body>
+</html>

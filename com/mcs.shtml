@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="компрессоры, винтовые">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - производство и реализация блок-боксов, компрессорного оборудования, насосов и кранов.">
+<meta http-equiv="content-language" content="ru">
+<title>Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+    	$("#mcs").css("color","white");
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1025" height="99" alt="Logo" /></div>
+  
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+  
+  <h1>МОДУЛЬНЫЕ КОМПРЕССОРНЫЕ СТАНЦИИ</h1>
+  <p><img src="../img/MCS.jpg" alt="U" width="243" height="123" class="img" /></p>
+  <p>Предназначены для снабжения сжатым воздухом различных  устройств на железнодорожном транспорте, пневмосистем нефтяной, газовой,  строительной, деревообрабатывающей, машиностроительной и других отраслях  промышленности. </p>
+  <p>Станция эксплуатируется в автоматическом режиме,  постоянное присутствие обслуживающего персонала не требуется.</p>
+  <p>&nbsp;</p>
+  <p>Станции выпускаются:<br />
+    - с электрическим приводом серии US, UMS<br />
+    - с дизельным приводом серии USD, UMSD<br />
+  Виды исполнения: стационарная, передвижная на шасси,  передвижная на санях.</p>
+<p>&nbsp;</p>
+  <p><strong>Наши специалисты могут проконсультировать вас:</strong> <br /> инженер коммерческого отдела - Иван Николаевич Павлов, <br /> тел. +7-964-306-18-99<br />
+      <a href="mailto:pavlov@gazmarket.su" class="link_mail"><strong>pavlov@gazmarket.su</strong></a></p>
+      <p>Для подбора винтового компрессора достаточно <a href="../files/screw.zip" class="link_mail"><strong>скачать опросный лист</strong></a>, заполнить его и отправить по почте или факсу.</p>
+</div>
+
+<!--#include virtual="/Address.xml" -->
+
+</body>
+</html>

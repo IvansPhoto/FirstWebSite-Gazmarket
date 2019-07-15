@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="насос, гидравлический, ГН-350, ГН-450">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - производство и реализация блок-боксов, компрессорного оборудования, насосов и кранов.">
+<meta http-equiv="content-language" content="ru">
+<title>Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.2.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+    	$("#hydraulics").css("color","white");
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1025" height="99" alt="Logo" /></div>
+  
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+  
+  <h1>Насос гидравлический ручной ГН-350, ГН-350-1, ГН-450</h1>
+    <p>Насос  предназначен для ручного переключения магистральных шаровых кранов Ду-300 -  Ду-1400.</p>
+  <table align="center" border="0" width="100%">
+    	<td align="center"><img src="../img/GP_1.gif" width="279" height="195" alt="ГН-350" /></td>
+    	<td align="center"><img src="../img/GP_2.gif" width="281" height="202" alt="ГН-450" /></td>
+  </table>
+    <p><strong>Основные технические характеристики</strong>:</p>
+    <table border="1" cellspacing="0" cellpadding="0" width="100%">
+      <tr>
+        <td><p>Технические    характеристики</p></td>
+        <td><p>ГН-350</p></td>
+        <td><p>ГН-350-1</p></td>
+        <td><p>ГН-450</p></td>
+      </tr>
+      <tr>
+        <td><p>Число    поршней, шт.</p></td>
+        <td><p>1</p></td>
+        <td><p>1</p></td>
+        <td><p>1</p></td>
+      </tr>
+      <tr>
+        <td><p>Производительность    на один ход поршня, см3</p></td>
+        <td><p>45</p></td>
+        <td><p>60</p></td>
+        <td><p>180</p></td>
+      </tr>
+      <tr>
+        <td><p>Максимальное    давление на выходе насоса, МПа</p></td>
+        <td><p>10.0</p></td>
+        <td><p>8.0</p></td>
+        <td><p>7.0</p></td>
+      </tr>
+      <tr>
+        <td><p>Рабочая    жидкость</p></td>
+        <td><p>Гидравлическая    жидкость</p></td>
+        <td><p>Гидравлическая    жидкость</p></td>
+        <td><p>Гидравлическая    жидкость</p></td>
+      </tr>
+      <tr>
+        <td><p>Габариты, мм</p></td>
+        <td><p>450х320х130</p></td>
+        <td><p>630х290х138</p></td>
+        <td><p>620х460х190</p></td>
+      </tr>
+      <tr>
+        <td><p>Присоединительные    размеры штуцеров, мм</p></td>
+        <td><p>М20 х 1.5</p></td>
+        <td><p>М20 х 1.5</p></td>
+        <td><p>М33 х 2</p></td>
+      </tr>
+      <tr>
+        <td><p>Масса, кг</p></td>
+        <td><p>10.5</p></td>
+        <td><p>13</p></td>
+        <td><p>20</p></td>
+      </tr>
+  </table>
+<p><strong>Наши специалисты могут проконсультировать вас:</strong> <br />
+инженер коммерческого отдела - Иван Николаевич Павлов, <br />
+тел. +7-964-306-18-99<br />
+<a href="mailto:pavlov@gazmarket.su" class="link_mail"><strong>pavlov@gazmarket.su</strong></a></p>
+<p>Для подбора винтового компрессора достаточно <a href="../files/screw.zip" class="link_mail"><strong>скачать опросный лист</strong></a>, заполнить его и отправить по почте или факсу.</p>
+</div>
+
+<!--#include virtual="/Address.xml" -->
+
+</body>
+</html>

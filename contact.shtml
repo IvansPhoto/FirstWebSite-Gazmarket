@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="блок-боксы, модульные здания">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - производство и реализация блок-боксов.">
+<title>Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+    	$("#contact").css("color","white");
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1024" height="99" alt="Logo" /></div>
+ 
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+  
+  <h1>КОНТАКТЫ</h1>
+    <p>Наш адрес: 160000, г. Вологда, ул. Челюскинцев, д. 9.</p>
+    <p>Телефон \ факс: (8172) 58-15-16, (921) 238-15-16</p>
+   <p>E-mail: <a href="mailto:info@gazmarket.su" class="link_mail">info@gazmarket.su</a></p>
+</div>
+
+<!--#include virtual="/Address.xml" -->
+
+</body>
+</html>

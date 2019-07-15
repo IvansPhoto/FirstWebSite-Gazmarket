@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="блок-боксы, негорючий, цельносварной, автоматики, связи">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - производство и реализация блок-боксов, компрессорного оборудования, насосов и кранов.">
+<title>Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+		$("#administrat").css("color","white")
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1025" height="99" alt="Logo" /></div>
+  
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+	<h1 align="center">Блок-контейнеры административно-хозяйственные</h1>
+    <p><strong>Блок-контейнеры административно-хозяйственные</strong> –  предназначены для создания надёжных складов, пунктов хранения инвентаря и  материалов, постов охраны, контрольно-пропускных пунктов, штабов, офисов и прочих административных зданий.</p>
+	<div align="center" id="imagebar">
+   	<img src="/img/Weld_CP_1.jpg" width="335" height="224"/>
+	<img src="/img/Weld_CP_6.jpg" width="335" height="224"/>
+    <img src="/img/UBS_1.jpg" width="335" height="224"/>
+    <h5>Примеры планироки административно-хозяйственного блок-контейнера:</h5>
+    <img src="/img/Administrat.png" width="1014" height="764" alt="Пример планировки">
+    </div>
+<!--#include virtual="/bb/Construction.xml"-->
+<p><strong>Наши специалисты могут проконсультировать вас:</strong>
+<br />инженер коммерческого отдела - Чечулин Евгений Сергеевич
+<br /><a href="mailto:chechulin@gazmarket.su" class="link_mail"><strong>chechulin@gazmarket.su</strong></a></p>
+<p>Для подбора блок-бокса достаточно <a href="../files/block_box.zip" class="link_mail"><strong>скачать опросный лист</strong></a>, заполнить его и отправить по почте или факсу.</p>
+</div>
+<!--#include virtual="/Address.xml" -->
+</body>
+</html>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /googledcc3835dcdee96b8.html
+Disallow: /yandex_56a369360d67c060.html
+Sitemap: http://gazmarket.vologda.ru/sitemap.xml

@@ -1,0 +1,38 @@
+@charset "utf-8";
+#tools {
+	margin-right: auto;
+	margin-left: auto;
+	width: 1025px;
+	border: thin solid #333;
+}
+#sub_tools {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #065A9D;
+	background-color: #A5B9CD;
+	text-align: center;
+	float: left;
+	width: 205px;
+}
+
+.table_tools {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #065A9D;
+	text-align: center;
+	background-color: #B9CCE1;
+	float: left;
+	width: 197px;
+	border: 1px solid #065A9D;
+	border-radius: 10px;
+	margin: 3px;
+}
+.table_tools:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bolder;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #065A9D;
+	float: left;
+}

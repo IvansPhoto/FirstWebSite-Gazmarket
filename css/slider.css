@@ -1,0 +1,129 @@
+/**************************************************
+
+Îáùèå ñòèëè äåìî ñëàéäåðà
+
+Àäàïòàöèÿ è ïåðåâîä
+http://dobrovoi.ru
+
+
+/* ------------------------------- 1.Ññûëêè --------------------------------*/
+a.back{
+	color:#777;
+	text-decoration:none;
+}
+#banner {
+	padding: 0 0 30px 0;
+	margin: 0;
+	height: 260px;
+	text-align: center;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+a:hover { color:#505AE0; text-decoration:none; }
+
+/* Êîíòåéíåð */
+#container {
+	width: 1025px;
+	height: 356px;
+}
+/* Îñíîâà ðîòàòîðà èçîáðàæåíèé */
+#banner {
+	height: 356px;
+	text-align: center;
+	width: 1025px;
+	background-color: #FFFFFF;
+}
+
+/*
+ * jQuery Nivo Slider v2.4
+ * http://nivo.dev7studios.com
+ *
+ * Copyright 2011, Gilbert Pellegrom
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ * 
+ * March 2010
+ */
+
+/*============================*/
+/*=== Ïîëüçîâàòåëüñêèå ñòèëè Ñëàéäåðà ===*/
+/*============================*/
+#slider-wrapper {
+	background: none;
+	width: 1025px;
+	height: 356px; /*Crome*/
+}
+
+#slider {
+	position: relative;
+	width: 1025px;
+	height: 356px;
+	background: url(/img/loading.gif) no-repeat 50% 50%;
+	z-index: 1;
+}
+#slider img { position:absolute; top:0px; left:0px;	display:none; }
+#slider a {	border:0; display:block; }
+
+.nivo-controlNav { margin:auto;	padding:0; position:absolute; bottom:-19px;	left:440px;	text-align:center; margin:auto; }
+.nivo-controlNav a {
+	display: block;
+	width: 15px;
+	height: 15px;
+	text-indent: -9999px;
+	border: 0;
+	margin-right: 3px;
+	float: left;
+	position: relative;
+	z-index: 30;
+	cursor: pointer;
+	background-image: url(/img/bullets.png);
+	background-repeat: no-repeat;
+}
+.nivo-controlNav a.active {	font-weight:bold; background-position:0 -22px; }
+
+.nivo-directionNav a { display:block; width:56px; height:50px;
+	background:url(/img/arrows.png) no-repeat;
+	text-indent:-9999px; border:0; position:absolute; top:45%;
+	z-index:30;	cursor:pointer; }
+a.nivo-nextNav {
+	background-position: -56px 0;
+	top: 150px;
+	right: -15px;
+}
+a.nivo-nextNav:hover { background-position:-56px -50px; }
+a.nivo-prevNav {
+	top: 150px;
+	left: -15px;
+}
+a.nivo-prevNav:hover { background-position:0 -50px; }
+
+/* Nivo Slider ñòèëè */
+.nivoSlider { position:relative; }
+.nivoSlider img { position:absolute; top:0px; left:0px; }
+/* Åñëè èçîáðàæåíèå îáâåðíóòî â ññûëêó */
+.nivoSlider a.nivo-imageLink { position:absolute;
+	top:0px; left:0px; width:100%;
+	height: 356px; /*Crome, old - height:100%;*/
+	border:0; padding:0; margin:0; z-index:20; display:none; }
+/* The slices in the Slider */
+.nivo-slice { display:block; position:absolute;	z-index:10;	height: 356px; /*Crome*/; }
+/* Ñòèëè çàãîëîâêà */
+.nivo-caption {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	padding: 0;
+	margin: 0;
+	color: #FFF;
+	opacity: 0.7;
+	width: 100%;
+	z-index: 29;
+	background-color: #333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+}
+
+.nivo-caption p { margin:0; padding:10px 15px 10px 15px;}
+.nivo-caption a { color:#efe9d1; text-decoration:underline;	display:inline !important; }
+.nivo-html-caption { display:none; }

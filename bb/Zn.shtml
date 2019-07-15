@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="блок-боксы, негорючий, цельносварной, сэндвич-панели">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - производство и реализация блок-боксов, компрессорного оборудования, насосов и кранов.">
+<meta http-equiv="content-language" content="ru">
+<title>Блок-боксы производства Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+    	$("#Zn").css("color","white");
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1025" height="99" alt="Logo" /></div>
+  
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+<h1>БЛОК-БОКСЫ с оцинкованным защитным покрытием</h1>
+  <p>Стены блок-бокса выполняются из листов стали 0,4-1,2 мм с оцинкованным   и защитным полимерным покрытием. Такая конструкция наиболее устойчивая к агрессивным условиям среды и обеспечивает наилучшую сохранность блок-бокса от коррозии.</p>
+    <p>Конструкция блок-бокса представляет собой цельносварную раму  на которую плотно и герметично крепятся оцинкованные листы с помощью  самонарезающих винтов или клёпок. </p>
+  <p>Такая система совмещает высокую коррозионную стойкость и позволяет:</p>
+    <ul>
+      <li> в очень широком диапазоне варьировать толщину стен;</li>
+      <li>выбирать наиболее подходящий материал утеплителя;</li>
+      <li>создавать различные закладные конструкции в стенах блок-бокса, и др.</li>
+    </ul>
+    <p><strong>Наши специалисты могут проконсультировать вас:</strong> <br /> инженер коммерческого отдела - Чечулин Евгений Сергеевич<br />
+      <a href="mailto:chechulin@gazmarket.su" class="link_mail"><strong>chechulin@gazmarket.su</strong></a></p>
+      <p>Для подбора блок-бокса достаточно <a href="../files/block_box.zip" class="link_mail"><strong>скачать опросный лист</strong></a>, заполнить его и отправить по почте или факсу.</p>
+</div>
+
+<!--#include virtual="/Address.xml" -->
+
+</body>
+</html>

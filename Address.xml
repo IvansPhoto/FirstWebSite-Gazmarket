@@ -1,0 +1,12 @@
+<div id="address" itemscope itemtype="http://schema.org/Organization">
+	<div id="address_left"><span itemprop="name">ООО «Газмаркет и К»</span></div>
+	<div id="address_right">
+			<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="postalCode">160000, </span>, 
+				<span itemprop="addressLocality">г. Вологда </span>, 
+				<span itemprop="streetAddress">ул. Челюскинцев, д. 9.</span> <br />
+			</div>
+		тел/факс: <span itemprop="telephone">(8172) 58-15-16, (921) 238-15-16</span>, 
+		e-mail: <span itemprop="email"><a href="mailto:info@gazmarket.su" class="link_mail">info@gazmarket.su</a></spanv>
+	</div>
+</div>

@@ -1,0 +1,17 @@
+﻿<div id="container">
+<!-- Begin Banner -->
+            <div id="banner">
+                <div id="slider-wrapper">  
+                    <div id="slider" class="nivoSlider">
+                        <a href="/bb/bb.shtml"><img src="/img/slider/Title_1.jpg" width="1025" title="#htmlcaption1" /></a>
+                        <a href="/bb/bb.shtml"><img src="/img/slider/Title_2.jpg" width="1025" title="#htmlcaption2" /></a>
+                        <a href="/bb/bb.shtml"><img src="/img/slider/Title_3.jpg" width="1025" title="#htmlcaption3" /></a> 
+                        <a href="/bb/bb.shtml"><img src="/img/slider/Title_4.jpg" width="1025" title="#htmlcaption4"/></a>
+						<a href="/bb/bb.shtml"><img src="/img/slider/Title_5.jpg" width="1025" title="#htmlcaption5"/></a> 
+                        <a href="/bb/bb.shtml"><img src="/img/slider/Title_6.jpg" width="1025" title="#htmlcaption6"/></a> 
+                        <a href="/bb/bb.shtml"><img src="/img/slider/Title_7.jpg" width="1025" title="#htmlcaption7"/></a>
+                    </div>
+                </div>
+            </div>
+            <!-- End Banner -->
+		</div>

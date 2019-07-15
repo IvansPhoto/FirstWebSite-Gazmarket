@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="компрессоры, турбо, центробежные">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - производство и реализация блок-боксов, компрессорного оборудования, насосов и кранов.">
+<meta http-equiv="content-language" content="ru">
+<title>Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+    	$("#turbo").css("color","white");
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1025" height="99" alt="Logo" /></div>
+  
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+  
+  <h1>ТУРБОКОМПРЕССОРЫ</h1>
+  <p>&nbsp;</p>
+  <p>Совместного производства с компанией Cameron  Compression Systems (США).</p>
+  <p>Клиентами в области продажи и ремонта турбокомпрессоров (центробежных компрессоров) являются предприятия черной и цветной металлургии, автомобилестроения, стекольной, текстильной, фармацевтической, нефтеперерабатывающей, нефтехимической и химической промышленностей.</p>
+  <h2><strong>Стандартного модельного ряда</strong></h2>
+  <p><img src="../img/turbo1.jpg" alt="U" width="160" height="134" class="img" /></p>
+  <p>Стандартный модельный ряд – это турбокомпрессоры, которые покупаются наиболее часто. Диапазон работы таких турбокомпрессоров составляет по давлению -  от 2,5 до 10,3 бар(и), по производительности – от 15 до 334 м3/мин. В отдельных случаях, при необходимости, есть возможность изготовить турбокомпрессор из стандартного модельного ряда с производительностью, на 5% превышающей производительность данной линейки и с давлением до 12-13 бар.</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <h2><strong>Инжирингового модельного ряда</strong>
+  </h2>
+  <p><img src="../img/turbo2.jpg" alt="U" width="160" height="118" class="img" />Инжиниринговый модельный ряд турбокомпрессоров позволяет сжимать различные газы до высокого давления, а также обеспечивает расход до 5500 м3/мин. Каждый инжиниринговый турбокомпрессор рассчитывается отдельно.</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+<p><strong>Наши специалисты могут проконсультировать вас:</strong> <br /> инженер коммерческого отдела - Иван Николаевич Павлов, <br /> тел. +7-964-306-18-99<br />
+  <a href="mailto:pavlov@gazmarket.su" class="link_mail"><strong>pavlov@gazmarket.su</strong></a></p>
+      <p>Для подбора винтового компрессора достаточно <a href="../files/screw.zip" class="link_mail"><strong>скачать опросный лист</strong></a>, заполнить его и отправить по почте или факсу.</p>
+</div>
+
+<!--#include virtual="/Address.xml" -->
+
+</body>
+</html>

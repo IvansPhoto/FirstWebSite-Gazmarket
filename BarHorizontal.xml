@@ -1,0 +1,56 @@
+﻿<div id="bar">
+	<div class="bar_wrapper">
+		<div class="bar_heading">
+			<a href="/index.shtml">О компании</a>
+		</div>
+		<div class="barContent">
+<!--			<ul>
+				<a href="/index.shtml"><li id="index">О компании</li></a>
+				<a href="/company.shtml"><li id="company">Наша команда</li></a>
+			</ul>
+-->		
+		</div>
+	</div>
+	
+	
+	
+	<div class="bar_wrapper">
+		<div class="bar_heading">
+			<a href="/bb/bb.shtml">Блок-контейнеры</a>
+		</div>
+		<div class="barContent">
+			<ul>
+				<a href="/bb/bb.shtml"><li id="bb">Общее описание</li></a>
+				<li class="splitlist">По назначению</li>
+				<a href="/bb/automatic.shtml"><li id="automatic">Технологические</li></a>
+				<a href="/bb/housewifely.shtml"><li id="housewifely">Бытового назначения</li></a>
+				<a href="/bb/administrat.shtml"><li id="administrat">Хозяйственные</li></a>
+                <li class="splitlist">По типу исполнения</li>
+				<a href="/bb/Weld.shtml"><li id="Weld">Цельносварные</li></a>
+				<a href="/bb/Sp.shtml"><li id="Sp">Сэндвич панели</li></a>
+				<a href="/bb/Zn.shtml"><li id="Zn">Оцинкованым покрытием</li></a>
+			</ul>
+		</div>
+	</div>
+	
+	
+	
+	<div class="bar_wrapper">
+		<div class="bar_heading"><a href="/modulbuilding.shtml">Мобильные здания</a></div>
+		<div class="barContent"></div>
+	</div>
+    
+	
+	
+	<div class="bar_wrapper">
+		<div class="bar_heading"><a href="/partners.shtml">Партнёры</a></div>
+		<div class="barContent"></div>
+	</div>
+
+
+
+	<div class="bar_wrapper">
+		<div class="bar_heading"><a href="/contact.shtml">Контакты</a></div>
+		<div class="barContent"></div>
+	</div>
+</div>

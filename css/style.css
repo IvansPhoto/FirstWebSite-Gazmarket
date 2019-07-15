@@ -1,0 +1,288 @@
+@charset "utf-8";
+body {
+	background-color: #A5B9CD;
+	text-align: left;
+}
+#wrapper {
+	font-family: Arial;
+	font-size: 15px;
+	color: #000;
+	height: auto;
+	width: 1025px;
+	margin-right: auto;
+	background-color: #FFF;
+	border-right-width: 15px;
+	border-left-width: 15px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #065A9D;
+	border-right-color: #065A9D;
+	border-bottom-color: #065A9D;
+	border-left-color: #065A9D;
+	margin-left: auto;
+	padding: 15px;
+	border-top-width: 15px;
+	border-top-style: solid;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+#description {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	height: auto;
+}
+#wrapper ul li {
+	text-align: left;
+	list-style-position: inside;
+	list-style-type: circle;
+}
+#sub_description {
+	float: none;
+	height: auto;
+	width: auto;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	margin-right: 15px;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #065A9D;
+	font-size: 18pt;
+	padding-top: 5px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	color: #065A9D;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+}
+h3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	font-weight: normal;
+	color: #065A9D;
+	text-decoration: none;
+	text-align: center;
+	background-color: #C5D9FF;
+	border: 1px solid #000;
+}
+h4 {
+	color: #065A9D;
+}
+h5 {
+	text-align:center;
+	font-size:16px;
+	padding:5px;
+}
+h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #065A9D;
+	background-color: #C5D9FF;
+}
+a {
+	text-decoration: none;
+	color: #065A9D;
+}
+#on_page {
+	color: #FFF;
+}
+.logo {
+	float: left;
+}
+#Logo {
+	width: 1024px;
+	clip: rect(auto,auto,auto,auto);
+	margin-right: auto;
+	float: none;
+	padding-bottom: 15px;
+	margin-left: auto;
+}
+#register {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: normal;
+	color: #065A9D;
+	background-color: #C5D9FF;
+	height: 35px;
+	padding: 5px;
+	text-align: left;
+	width: 235px;
+	vertical-align: middle;
+}
+#img_prod {
+	float: right;
+	padding-right: 10px;
+}
+#description {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: normal;
+	float: right;
+	width: 750px;
+	height: auto;
+	margin-left: 15px;
+	font-style: normal;
+	text-align: justify;
+}
+#sidebar {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #065A9D;
+	text-align: left;
+	vertical-align: middle;
+	float: left;
+	height: auto;
+	width: 235px;
+	font-weight: bold;
+	font-size: 12pt;
+	margin-right: 15px;
+	padding: 10px;
+}
+
+#sidebar_right {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #065A9D;
+	text-align: left;
+	vertical-align: middle;
+	float: right;
+	height: auto;
+	width: 255px;
+	font-weight: bold;
+	font-size: 12pt;
+	margin-left: 15px;
+	padding: 10px;
+}
+
+#imagebar {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #065A9D;
+	text-align: center;
+	vertical-align: middle;
+	float: inherit;
+	height: auto;
+	width: 1024px;
+	font-weight: bold;
+	font-size: 12pt;
+}
+#link {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+}
+.link_mail {
+	text-decoration: none;
+	color: #FFF;
+}
+.img {
+	float: left;
+	padding: 10px;
+}
+#address {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #065A9D;
+	text-align: left;
+	height: 50px;
+	width: 1025px;
+	vertical-align: middle;
+	padding: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right-width: 25px;
+	border-left-width: 25px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #065A9D;
+	border-right-color: #065A9D;
+	border-bottom-color: #065A9D;
+	border-left-color: #065A9D;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+#address_left {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+	height: 50px;
+	width: 250px;
+	float: left;
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+#address_right {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+}
+#commercial {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	color: #000000;
+	height: auto;
+	width: auto;
+	border-top-color: #065A9D;
+	border-right-color: #065A9D;
+	border-bottom-color: #065A9D;
+	border-left-color: #065A9D;
+	text-align: right;
+	padding-right: 15px;
+	font-weight: normal;
+	padding-top: 30px;
+}
+#MenuBar1 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+	float: none;
+}
+#wrapper p .link_mail {
+	color: #065A9D;
+	font-weight: bold;
+}
+#wrapper table tr td p {
+	text-align: center;
+	vertical-align: middle;
+}
+#BarHorizontal {
+	text-align: center;
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;	
+}
+#Logo_img {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	height: 356px;
+}
+a h1:hover {
+	color: #A5B9CD;
+}
+
+.text-indent {
+	text-indent:15px;
+}
+.text-indent p {
+	text-align:left;
+	margin:0px;
+}
+
+.align-center{
+	text-align: center;
+	display: block;
+	margin:auto;
+	padding-bottom:15px;
+}

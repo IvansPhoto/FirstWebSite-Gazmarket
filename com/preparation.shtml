@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="компрессоры, винтовые">
+<meta name="description" content="ООО ГАЗМАРКЕТ и К - производство и реализация блок-боксов, компрессорного оборудования, насосов и кранов.">
+<meta http-equiv="content-language" content="ru">
+<title>Газмаркет и К</title>
+
+<!--#include virtual="/Yandex.xml" -->
+
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/css/bar.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script><!--Bar-->
+  	$(document).ready(function(){
+    	$("#preparation").css("color","white");
+  	});
+</script>
+
+<!--#include virtual="/SliderScript.xml" -->
+
+</head>
+<body>
+<div id="wrapper">
+  <div id="Logo"><img src="/img/LogoV5.png" width="1025" height="99" alt="Logo" /></div>
+  
+    <!--#include virtual="/Slider.xml" -->
+    
+    <!--#include virtual="/Commercial.xml" -->
+    
+	<!--#include virtual="/BarHorizontal.xml" -->
+  
+  <h1>Подготовка воздуха</h1>
+  <p>Компрессоры производят сжатый воздух с определенным содержанием  масла, влаги и твёрдых частиц.</p>
+  <p>    Как правило, пневматическое  оборудование требует более чистый воздух, чем производит компрессор. Система  подготовки воздуха нацелена на достижения требуемых параметров и снижает  содержание масла, влаги и твердых частиц в воздухе, вырабатываемым  компрессором. </p>
+  <p>Это происходит при помощи фильтров различной степени очистки и  осушителей рефрижераторного, адсорбционного и мембранного типов.</p>
+  <p>Осушители воздуха могут быть следубщих типов:</p>
+  <ul>
+    <li>    <strong>Рефрижераторный</strong> осушитель  является наиболее распространённым типом и обеспечивает точку россы +3°C.</li>
+    <li> <strong>Адсорбционный</strong> осушитель способен максимально возможно осушить  сжатый воздух и обеспечивает точку россы -20°C, -50°C, -70°C.</li>
+    <li>    <strong>Мембранный</strong> осушитель  максимально компактный и не требует  подключения к электросети, обеспечивает точку россы -20°C и -50°C.</li>
+  </ul>
+  <p> Наша компания предлагает  наиболее оптимальный набор фильтров и осушителей в системе подготовки воздуха  для определённого компрессора и пневматического оборудования. </p>
+  <p>&nbsp;</p>
+  <p><strong>Наши специалисты могут проконсультировать вас:</strong> <br /> инженер коммерческого отдела - Иван Николаевич Павлов, <br /> тел. +7-964-306-18-99<br />
+      <a href="mailto:pavlov@gazmarket.su" class="link_mail"><strong>pavlov@gazmarket.su</strong></a></p>
+      <p>Для подбора винтового компрессора достаточно <a href="../files/screw.zip" class="link_mail"><strong>скачать опросный лист</strong></a>, заполнить его и отправить по почте или факсу.</p>
+      
+	<div style="text-align:center">
+    	<p>Вас также может заинтересовать: <a href="/com/heavy.shtml"><strong>«Компрессоры высокого давления»</strong></a>, <a href="/com/compressor.shtml"><strong>«Винтовые компрессоры»</strong></a>.</p>
+        <strong><a href="#Logo">В начало страницы</a></strong>
+	</div>
+</div>
+      
+</div>
+
+<!--#include virtual="/Address.xml" -->
+
+</body>
+</html>
